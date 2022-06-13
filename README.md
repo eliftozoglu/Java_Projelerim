@@ -1,3 +1,3 @@
-## Java_Projelerim
+### Java_Projelerim
 
-### Patika.dev Java eğitimi kapsamında yaptığım projeler.
+### [Patika.dev](https://app.patika.dev/paths) Java eğitimi kapsamında yaptığım projeler.
