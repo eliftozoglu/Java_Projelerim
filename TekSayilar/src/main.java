@@ -26,14 +26,19 @@ public class main {
 */
         //Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden
         // ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.
-
+        boolean checkEven = true;
         do {
             System.out.print("Sayı giriniz: ");
             n = input.nextInt();
+
                 if (n % 4 == 0){
                     total += n;
 
                 }
+
+            if (n%2==1){
+                break;
+            }
 
         }while(n>0);
 
